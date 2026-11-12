@@ -1,0 +1,40 @@
+PROJECT-VELOCITY/
+│
+├── public/
+│   ├── models/
+│   │   ├── cars/
+│   │   ├── environments/
+│   │   └── objects/
+│   ├── textures/
+│   ├── audio/
+│   └── fonts/
+│
+├── src/
+│   ├── components/
+│   │   ├── menus/
+│   │   ├── hud/
+│   │   └── garage/
+│   │
+│   ├── game/
+│   │   ├── core/
+│   │   ├── physics/
+│   │   ├── vehicles/
+│   │   ├── cameras/
+│   │   ├── tracks/
+│   │   ├── ai/
+│   │   ├── racing/
+│   │   └── world/
+│   │
+│   ├── systems/
+│   │   ├── audio/
+│   │   ├── weather/
+│   │   ├── progression/
+│   │   └── save/
+│   │
+│   ├── state/
+│   ├── styles/
+│   └── App.tsx
+│
+├── tests/
+├── package.json
+└── README.md
